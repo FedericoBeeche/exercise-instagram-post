@@ -1,0 +1,79 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: gray;
+
+}
+
+.contenedorGeneral {
+    width: 100vh;
+    height: auto;
+    background-color: white;
+    border-radius: 2px;
+    margin: auto;
+}
+
+.contenedorHeader {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.contenedorTextoIzq {
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contenedorTextoDer {
+    padding-right: 10px;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#html5Texto {
+    font-weight: bold;
+}
+
+#iconoHTML {
+    font-size: 40px;
+}
+
+#textoRigo {
+    padding-left: 32px;
+}
+
+.contenedorImagen {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.imagenPost {
+    width: 100%;
+    height: 100%;
+}
+
+.contenedorDescripcion {
+    width: 100%;
+    padding-left: 10px;
+}
+
+.contenedorIconos {
+    font-size: 30px;
+    padding-bottom: 10px;
+    padding-left: 2px;
+    padding-top: 5px;
+}
+
+.fa-bookmark {
+    padding-left: 890px;
+    
+}
+
+.contenedorDescripcionTexto {
+    padding-bottom: 5px;
+}
+
